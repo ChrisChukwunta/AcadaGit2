@@ -1,2 +1,4 @@
 We want to perform a merge on gitFile1
 Git is great!!!!
+We are learning something abot merge clashes
+
