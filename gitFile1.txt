@@ -1,1 +1,2 @@
 We want to perform a merge on gitFile1
+Git is great!!!!

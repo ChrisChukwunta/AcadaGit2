@@ -1,0 +1,1 @@
+Let is delete something on gitFile4.txt
