@@ -1,1 +1,2 @@
 Let is delete something on gitFile4.txt
+Added content to gitFile4.txt
